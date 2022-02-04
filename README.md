@@ -1,3 +1,3 @@
-### Maximilian Beckett
-<hr/>
-This is personal webiste for Maximilian Beckett 
+## Maximilian Beckett
+
+This is personal webiste for **Maximilian Beckett**!
